@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WenZiTong</string>
+    <string name="life_guide">生活烦恼随时拍</string>
+    <string name="museum_guide">博物馆随时拍</string>
+    <string name="classical_chinese_guide">古文阅读随时拍</string>
+    <string name="first_page">首页</string>
+    <string name="collect_page">收藏</string>
+    <string name="personal_page">个人</string>
+    <string name="individuation_word">个性化生僻字</string>
+    <string name="photograph">拍照</string>
+    <string name="upload">上传</string>
+    <string name="newword_book">生词本</string>
+    <string name="usecenter">个人中心</string>
+    <string name="account">账号</string>
+    <string name="history">历史查询记录</string>
+    <string name="exit">退出</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
